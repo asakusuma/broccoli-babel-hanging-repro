@@ -1,0 +1,24 @@
+{
+  "name": "broccoli-babel-hanging-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asakusuma/broccoli-babel-hanging-repro.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asakusuma/broccoli-babel-hanging-repro/issues"
+  },
+  "homepage": "https://github.com/asakusuma/broccoli-babel-hanging-repro#readme",
+  "dependencies": {
+    "broccoli": "^3.5.1",
+    "broccoli-babel-transpiler": "^7.8.0",
+    "broccoli-test-helper": "^2.0.0"
+  }
+}
