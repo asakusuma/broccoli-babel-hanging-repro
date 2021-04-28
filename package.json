@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/asakusuma/broccoli-babel-hanging-repro#readme",
   "dependencies": {
-    "broccoli": "^3.5.1",
+    "broccoli": "asakusuma/broccoli#414abba1c820d752273c1b32fe4e2c3b05fd002a",
     "broccoli-babel-transpiler": "^7.8.0",
     "broccoli-test-helper": "^2.0.0"
   }
